@@ -1,2 +1,2 @@
-# whitepaper
+# Moses Whitepaper
 Moses Whitepaper
