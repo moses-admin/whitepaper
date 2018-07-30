@@ -632,7 +632,7 @@ MOS的增值与否取决于市场规律以及应用落地后的需求，其可�
 
     币乎：https://bihu.com/people/587044
 
-    Twitter：https://twitter.com/Moses\_coin?s=05
+    Twitter：https://twitter.com/moses_coin
 
 - 联系我们
 
